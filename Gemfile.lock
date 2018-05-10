@@ -1,0 +1,24 @@
+PATH
+  remote: .
+  specs:
+    faker-spanish_document (0.1.0)
+      faker
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    concurrent-ruby (1.0.5)
+    faker (1.8.7)
+      i18n (>= 0.7)
+    i18n (1.0.1)
+      concurrent-ruby (~> 1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.16)
+  faker-spanish_document!
+
+BUNDLED WITH
+   1.16.1
